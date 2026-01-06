@@ -1,0 +1,4 @@
+- [x] Edit ocr_cnn.py: Remove prediction code and add saving of label_encoder as 'label_encoder.pkl'
+- [x] Edit prediksi.py: Add necessary imports, load model and label_encoder, preprocess image, make prediction, update display title
+- [ ] Run ocr_cnn.py to train and save the model
+- [ ] Run prediksi.py to test the prediction display
